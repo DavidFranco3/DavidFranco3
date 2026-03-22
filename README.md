@@ -42,6 +42,3 @@ Ingeniero en Informática con más de **3 años de experiencia** diseñando arqu
 - **Optimización de Sistemas Monolíticos:** Mejora crítica en tiempos de respuesta de servidor mediante optimización de consultas en MySQL.
 - **Aplicaciones Multiplataforma:** Creación de interfaces responsivas y fluidas en iOS/Android usando Flutter.
 - **IA Workflow:** Integración de Prompt Engineering para comprimir ciclos de desarrollo y detección de bugs.
-
----
-📫 **¿Cómo contactarme?** A través de mi [LinkedIn](https://www.linkedin.com/in/josé-david-ayala-franco-247701220) o enviándome un correo a **josedavidayalafranco3@gmail.com**.
