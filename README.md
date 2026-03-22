@@ -8,7 +8,7 @@
 Ingeniero en Informática con más de **3 años de experiencia** diseñando arquitecturas de alto impacto. Me especializo en convertir requerimientos complejos en soluciones elegantes, utilizando **IA estratégicamente** para acelerar los ciclos de desarrollo.
 
 - 🔭 Actualmente trabajando en arquitecturas escalables con **Express.js** y **Laravel**.
-- 📱 Experto en desarrollo multiplataforma con **Flutter**.
+- 📱 Desarrollo de aplicaciones multiplataforma con **Flutter** e integración de gestión de estado.
 - ⚡ Apasionado por la optimización de procesos y el **Clean Code**.
 - 🧠 Aprendizaje acelerado y enfoque en resolución de problemas.
 
