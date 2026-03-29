@@ -34,6 +34,18 @@ Ingeniero en Informática con más de **3 años de experiencia** diseñando arqu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 
+## 📦 Librerías & Proyectos Open Source
+Como parte de mi compromiso con la comunidad y la optimización de flujos de trabajo, desarrollo y mantengo herramientas reutilizables en **NPM**:
+
+* **[react-apextable-pro](https://www.npmjs.com/package/react-apextable-pro)** ![NPM Version](https://img.shields.io/npm/v/react-apextable-pro?color=CB3837&style=flat-square&logo=npm)  
+    Componente de tabla de alto rendimiento para React, diseñado para manejar volúmenes de datos complejos con una interfaz fluida.
+
+* **[intl-currency-helper](https://www.npmjs.com/package/intl-currency-helper)** ![NPM Version](https://img.shields.io/npm/v/intl-currency-helper?color=CB3837&style=flat-square&logo=npm)  
+    Utilidad ligera para el formateo internacional de divisas utilizando la API `Intl`, ideal para aplicaciones Fintech y E-commerce.
+
+* **[generador-tickets](https://www.npmjs.com/package/generador-tickets)** ![NPM Version](https://img.shields.io/npm/v/generador-tickets?color=CB3837&style=flat-square&logo=npm)  
+    Lógica desacoplada para la estructuración y generación de tickets de venta, optimizada para sistemas POS y TPV.
+
 ## 📊 Estadísticas de GitHub
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DavidFranco3&theme=dark&hide_border=true" alt="GitHub Streak" />
