@@ -3,6 +3,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-david-ayala-franco-247701220)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josedavidayalafranco3@gmail.com)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~davidfranco3)
 
 ## 🚀 Sobre mí
 Ingeniero en Informática con más de **3 años de experiencia** diseñando arquitecturas de alto impacto. Me especializo en convertir requerimientos complejos en soluciones elegantes, utilizando **IA estratégicamente** para acelerar los ciclos de desarrollo.
